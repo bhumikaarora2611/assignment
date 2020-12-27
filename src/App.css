@@ -7,6 +7,15 @@
   pointer-events: none;
 }
 
+
+.ewin1{
+
+  border-bottom: 1px solid black;
+  width: 10%;
+  outline: none;
+
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

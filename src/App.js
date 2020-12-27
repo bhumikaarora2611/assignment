@@ -116,7 +116,7 @@ class App extends Component {
         <Table.Cell>A</Table.Cell>
         <Table.Cell>Test 1</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4460755157058</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>3<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>3<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select></Table.Cell>
       </Table.Row>
@@ -124,7 +124,7 @@ class App extends Component {
         <Table.Cell rowSpan='3'>B</Table.Cell>
         <Table.Cell>Test 2</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4467615531074	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>1<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>1<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -132,7 +132,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 1</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4460755157058	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>2<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>2<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -141,7 +141,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 4</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4467830194242	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>4<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>4<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -151,7 +151,7 @@ class App extends Component {
         <Table.Cell rowSpan='3'>C</Table.Cell>
         <Table.Cell>Test 1</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4460755157058</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>2<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>2<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -159,7 +159,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 6</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4455579123778	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>10<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>10<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -168,7 +168,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 7</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4455579025474</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>60<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>60<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -177,7 +177,7 @@ class App extends Component {
         <Table.Cell rowSpan='3'>D</Table.Cell>
         <Table.Cell>Test 6</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4455579123778	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>50<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>50<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -185,7 +185,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 4</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4467830194242</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>4<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>4<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
@@ -194,7 +194,7 @@ class App extends Component {
       <Table.Row>
         <Table.Cell>Test 2</Table.Cell>
         <Table.Cell style={{textAlign:'center' }}>4467615531074	</Table.Cell>
-        <Table.Cell style={{textAlign:'center' }}>5<input type='text'></input></Table.Cell>
+        <Table.Cell style={{textAlign:'center' }}>5<input type='text' className="ewin1"></input></Table.Cell>
         <Table.Cell><select><option value="one">True</option>
         <option value="two">False</option></select>
         </Table.Cell>
